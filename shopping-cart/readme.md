@@ -4,20 +4,20 @@
 
 ## Description
 
-This project is a sample project board.
+This project is a sample shopping list.
 
-Purpose of this project is to show case micro frontend using Modules.
+Purpose of this project is to show case page navigation and theme changer.
 
 Following concepts are covered in this example:
 
 - Create react app
-- **React Routing**
-- **Common Components**
-- **Modules to isolate functionality**
-- **Custom Hooks**
+- **Context**
+- React Routing
+- **Page Navigation**
+- **Theme Changing**
+- Common Components
+- Custom Hooks
 - Bootstrap 5 / React Bootstrap
-- **Custom Types**
-- **Html 5 web APIs**
 
 ## Table of Contents
 
